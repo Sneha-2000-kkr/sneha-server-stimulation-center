@@ -15,6 +15,7 @@ Well list is long, and not very concrete at the moment hence I am jotting all my
 so, wht to do in this case ? 
 inside terminal, paste cmd:
 $ git rm -r --cached .idea
+
 ![img.png](images/img.png)
 
 
