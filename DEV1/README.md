@@ -1,3 +1,7 @@
+dev1 image is already pushed on Docker Hub : https://hub.docker.com/repositories/snehakkr00
+
+
+
 1. pulled ubuntu image in docker images inside docker desktop gui
 2. run the image, it will create a container for u and yaha pe apne container ko name do like DEV1
 3. list docker images with 
@@ -41,6 +45,7 @@ isliye terminate kar diya. Ab humne explicit zoo.cfg add kar diya — start hona
 Lekin host/browser se localhost:8161 refuse kar raha — iska reason usually do chizein hoti hain:
 Artemis sirf 127.0.0.1 (loopback) pe bind hua hai — isliye container ke bahar se reachable nahi.
 Ya phir docker port mapping (-p 8161:8161) missing hai.
+
 
 
 
